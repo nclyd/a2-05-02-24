@@ -1,0 +1,14 @@
+C:\Users\Nathan\source\repos\school\Pod Booking\Pod Booking\bin\Debug\dbManagement.mdf
+C:\Users\Nathan\source\repos\school\Pod Booking\Pod Booking\bin\Debug\dbManagement_log.ldf
+C:\Users\Nathan\source\repos\school\Pod Booking\Pod Booking\bin\Debug\Pod Booking.exe.config
+C:\Users\Nathan\source\repos\school\Pod Booking\Pod Booking\bin\Debug\Pod Booking.exe
+C:\Users\Nathan\source\repos\school\Pod Booking\Pod Booking\bin\Debug\Pod Booking.pdb
+C:\Users\Nathan\source\repos\school\Pod Booking\Pod Booking\obj\Debug\Pod Booking.csproj.AssemblyReference.cache
+C:\Users\Nathan\source\repos\school\Pod Booking\Pod Booking\obj\Debug\Pod Booking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nathan\source\repos\school\Pod Booking\Pod Booking\obj\Debug\Pod_Booking.Booking.resources
+C:\Users\Nathan\source\repos\school\Pod Booking\Pod Booking\obj\Debug\Pod_Booking.gui.Menu.resources
+C:\Users\Nathan\source\repos\school\Pod Booking\Pod Booking\obj\Debug\Pod_Booking.Properties.Resources.resources
+C:\Users\Nathan\source\repos\school\Pod Booking\Pod Booking\obj\Debug\Pod Booking.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\school\Pod Booking\Pod Booking\obj\Debug\Pod Booking.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\school\Pod Booking\Pod Booking\obj\Debug\Pod Booking.exe
+C:\Users\Nathan\source\repos\school\Pod Booking\Pod Booking\obj\Debug\Pod Booking.pdb
